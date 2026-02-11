@@ -1,4 +1,4 @@
-/* さっきのCSSに追加・修正 */
+
 .status-tag {
     display: inline-block;
     background: #e67e22;
@@ -21,4 +21,5 @@
     background: #fff;
     border-radius: 8px;
     border: 2px dashed #2c3e50;
+
 }
