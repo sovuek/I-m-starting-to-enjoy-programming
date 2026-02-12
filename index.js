@@ -17,8 +17,7 @@ const msg = document.getElementById('lucky-msg');
 const phrases = [
     "GCIベーシック、完走するぞ！🔥",
     "プログラミング、めちゃくちゃ楽しい！✨",
-    "一歩ずつ学んで、いつか素敵なエンジニアになりたい。💻",
-    "コードで誰かの役に立てる日を夢見て、猛勉強中！💪"
+    
 ];
 
 if (btn) {
@@ -39,4 +38,5 @@ if (btn) {
             duration: 400
         });
     });
+
 }
